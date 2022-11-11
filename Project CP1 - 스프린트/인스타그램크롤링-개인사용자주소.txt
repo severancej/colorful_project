@@ -1,0 +1,18 @@
+인스타 개인사용자페이지에서 data를 크롤링 하기로 결정한 이유
+크롤링
+
+<크롤링 할 개인 인스타 주소>
+1. https://www.instagram.com/leeji_ee/
+2. https://www.instagram.com/dorabangs8/
+3. https://www.instagram.com/better_nutri.t/
+4. https://www.instagram.com/caro.home.fitness/
+5. https://www.instagram.com/nuee._.9/
+6. https://www.instagram.com/56_46kg/
+7. https://www.instagram.com/mukbo.jibang/
+8. https://www.instagram.com/storymenu_rimming/
+9. https://www.instagram.com/poo._.yummy/
+
+빵종류 필요
+
+일식이나 중식도 필요
+
