@@ -5,8 +5,16 @@
 ## 💡분석하는 신고데이터에서 <br>자율주행개발차량들이 오류가 많이 나는 이유를 찾아 인사이트를 얻고<br>**해당 원인들 해결할 수 있는 방법들을 찾는 것이 목적**입니다.
 <br><br>
 
+---
 ### ⬇️ 데이터를 가져온 사이트<br><br>
-[📌DMV(= 캘리포니아주 자동차관리국) - 2021 Autonomous Vehicle Disengagement Reports](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/disengagement-reports/)<br><br>
+
+[📌DMV(= 캘리포니아주 자동차관리국) - 2021 Autonomous Vehicle Disengagement Reports](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/disengagement-reports/)
+
+---
+
+
+<br><br>
+
 
 ### ✒️데이터 설명<br><br>
 위 데이터 파일에는 2020년 12월 1일과 2021년 11월 30일 사이에<br>
