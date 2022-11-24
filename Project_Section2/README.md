@@ -1,7 +1,9 @@
 ---
 # ☀️캘리포니아 일반도로에서<br> 자율주행자동차의 시범운행 사례를 통한<br>현재 자율주행차량시스템의 개발의 보완방향
 ---
-![](https://www.shutterstock.com/image-photo/young-woman-riding-autonomous-car-600w-701942455.jpg)-[이미지출처](https://www.shutterstock.com/ko/image-photo/young-woman-riding-autonomous-car-self-701942455)
+![](https://www.shutterstock.com/image-photo/young-woman-riding-autonomous-car-600w-701942455.jpg)-[이미지출처](https://www.shutterstock.com/ko/image-photo/young-woman-riding-autonomous-car-self-701942455)<br><br>
+## 💡분석하는 신고데이터에서 <br>자율주행개발차량들이 오류가 많이 나는 이유를 찾아 인사이트를 얻고<br>**해당 원인들 해결할 수 있는 방법들을 찾는 것이 목적**입니다.
+<br><br>
 
 ### ⬇️ 데이터를 가져온 사이트<br><br>
 [📌DMV(= 캘리포니아주 자동차관리국) - 2021 Autonomous Vehicle Disengagement Reports](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/disengagement-reports/)<br><br>
@@ -29,4 +31,4 @@ DMV(= 차량관리국)에 자율주행시스템을 해제하고 운전한 이유
 - 진행 기간: 7월 22일 ~ 7월 27일<br>
 - 사용 언어: &#160;Python - Pandas<br>
 - 프로젝트 발표 영상은 [**여기**](https://youtu.be/xERAF8g46DM)에서 보실 수 있습니다.<br>
-- 데이터 전처리하는 코드파일은 **AI_14_장지은_Section2.ipynb**이고 코랩을 통해 보시길 바랍니다.(github으로는 내용이 다 안보입니다.)
+- 데이터 전처리하는 코드파일은 github내 **AI_14_장지은_Section2.ipynb** 파일이고 코랩을 통해 보시길 바랍니다.(github에서는 내용이 다 안보입니다.🥹)
