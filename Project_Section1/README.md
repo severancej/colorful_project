@@ -19,3 +19,14 @@
 　　　　　&#160;시각화 - seaborn, matplotlib.pyplot<br><br>
 - 프로젝트 발표 영상은 [**여기**](https://youtu.be/SXrkczisWTM)에서 보실 수 있습니다.<br>
 
+---
+### 👋🏻 github 저장소 안 파일 설명
+---
+
+- AI14_장지은_Section1.ipynb ➡️ 데이터전처리하는 파일
+
+- AI_14_장지은_Section1_슬라이드쇼 대본.txt ➡️ 발표대본
+
+- AI_14_장지은_Section1_슬라이드쇼.pptx ➡️ 발표자료
+
+<br><br>
